@@ -1,0 +1,29 @@
+PS C:\Users\gahel\Downloads\proj1resubsc>  & 'C:\Users\gahel\.vscode\extensions\redhat.java-1.27.0-win32-x64\jre\17.0.10-win32-x86_64\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\gahel\Downloads\proj1resubsc\scrabbleproj1resub\target\classes' 'edu.guilford.ScrabbleProjectDriver' 
+Word: 'Banana', Scrabble Score: 8
+Word: 'Video', Scrabble Score: 9
+Word: 'Computer', Scrabble Score: 14
+Word: 'Phone', Scrabble Score: 10
+Word: 'Bottle', Scrabble Score: 8
+
+Words tested against the random Scrabble set
+Word: 'Banana', Acceptable: true
+Word: 'Video', Acceptable: true
+Word: 'Computer', Acceptable: true
+Word: 'Phone', Acceptable: true
+Word: 'Bottle', Acceptable: false
+
+Top 5 highest scoring words from the wordfile text file
+Word: 'quickly', Score: 25
+Word: 'organization', Score: 22
+Word: 'executive', Score: 21
+Word: 'recognize', Score: 21
+Word: 'experience', Score: 21
+
+Testing 5 words against a random Scrabble set:
+Word: 'responsibility', Test Result: true
+Word: 'everybody', Test Result: false
+Word: 'majority', Test Result: true
+Word: 'everything', Test Result: true
+Word: 'magazine', Test Result: true
+Word with the Highest Scrabble Score: 'exquisitely', Score: 30
+Shortest Non-Valid Word: 'dizzy'
